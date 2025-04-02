@@ -13,4 +13,4 @@ This project uses machine learning to predict breast cancer based on dataset fea
 ## How to Run:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/Breast-Cancer-Prediction.git
+   git clone https://github.com/Priyaruchita/Breast-Cancer-Prediction.git
